@@ -19,5 +19,5 @@ area = length*width;
 
 //Output of area of rectangle
 cout<<"Area of rectangle of length "<<length<<" and width "<<width<<" is "<<area;
-
+cout<<"Area of rectangle of length "<<length<<" and width "<<width<<" is "<<area;
 }
